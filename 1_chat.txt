@@ -1,2 +1,5 @@
 first line code for chat app
 second code for the line
+hi amir 
+how are you 
+how about you
